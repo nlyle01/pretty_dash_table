@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/python-14354C?style=flat&color=blue&logo=python&logoColor=white)
 ## Pretty Plotly Dash Table
 **Pandas DataFrame inside Dash Bootstrap Table = ✨**
 
